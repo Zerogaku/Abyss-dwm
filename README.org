@@ -1,7 +1,7 @@
 #+title: My patched dwm
 
 My dwm config for use with [[https://github.com/Zerogaku/Abyss-rice][Abyss-rice]].
-Made with [[https://github.com/bakkeby/dwm-flexipatch][dwm-flexipatch]].
+Made with [[github:bakkeby/dwm-flexipatch][dwm-flexipatch]].
 
 * Enabled patches
 #+begin_src c
