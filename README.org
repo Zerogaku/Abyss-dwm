@@ -3,7 +3,7 @@
 Made with dwm-flexipatch.
 
 * Enabled patches
-#+begin_src text
+#+begin_src c
 #define BAR_DWMBLOCKS_PATCH 1
 #define BAR_LTSYMBOL_PATCH 1
 #define BAR_TAGPREVIEW_PATCH 1
